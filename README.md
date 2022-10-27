@@ -1,0 +1,10 @@
+- 👋 هلا, انا لايت
+- 👀 أنا مهتم ب ...
+- 🌱 أنا أتعلم حاليا ...
+- 💞️ أتطلع إلى التعاون في ...
+- 📫 كيف تصل إلي؟ ...
+
+<!---
+ahahahaj/ahahahaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
